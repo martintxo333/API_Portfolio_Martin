@@ -44,13 +44,13 @@ This project is intended for **educational purposes**, focusing on understanding
 
 ## Project Structure
 
-```
-portfolio_flask/
+```project/
 │
 ├── app.py
 ├── apiak_funtzionatu.py
-├── templates/
-│   └── portfolio.html
+│
+└── templates/
+    └── portfolio.html
 ```
 
 ---
